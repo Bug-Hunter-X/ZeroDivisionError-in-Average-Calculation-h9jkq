@@ -1,0 +1,1 @@
+This repository contains example code demonstrating a common programming error: a ZeroDivisionError when calculating an average. The `bug.py` file shows the problematic code, while `bugSolution.py` presents a corrected version with improved error handling.  This is a common issue, particularly for beginners, highlighting the importance of input validation and handling edge cases.
